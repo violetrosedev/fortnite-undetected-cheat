@@ -24,9 +24,6 @@ To use this tool on Windows, follow these steps:
 1. Download the latest release from the [Releases](https://github.com/violetrosedev/fortnite-undetected-cheat/releases) page.
 2. Run the loader executable file.
 
-## Configuration
-You can configure the settings by [describe how to configure if applicable].
-
 
 ## Acknowledgements
 - Special thanks to [violetrosedev].
