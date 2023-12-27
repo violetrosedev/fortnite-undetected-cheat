@@ -1,4 +1,4 @@
-# Fortnite undetcted hack!
+# Fortnite undetected hack!
 
 ## Description
 This tool provides a range of features to enhance your Fortnite gaming experience. Customize your gameplay with features like aimbot, ESP, exploits, and more.
